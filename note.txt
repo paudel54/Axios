@@ -1,0 +1,6 @@
+Packages Required to Install:
+npm i react-router-dom axios
+
+
+When { new: true } is specified, it instructs the database to return the updated document after the update operation is performed.
+By default, without { new: true }, the database returns the original document before it was updated.
